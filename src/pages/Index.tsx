@@ -6,7 +6,7 @@ import { UseCases } from "@/components/UseCases";
 import { Testimonials } from "@/components/Testimonials";
 import { FAQ } from "@/components/FAQ";
 import { Footer } from "@/components/Footer";
-import { Chatbot } from "@/components/Chatbot";
+import  Chatbot  from "@/components/Chatbot";
 import { ChatbotTrigger } from "@/components/ChatbotTrigger";
 import { ParticlesBackground } from "@/components/ParticlesBackground";
 
